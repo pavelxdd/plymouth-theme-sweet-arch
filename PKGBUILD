@@ -4,7 +4,7 @@
 _theme="sweet-arch"
 _pkgname="plymouth-theme-$_theme"
 pkgname="$_pkgname-git"
-pkgver=2.1.r2.ga3e3907
+pkgver=2.1.r4.ge1fdb38
 pkgrel=1
 pkgdesc="Make your Arch Linux splash screen look wonderful"
 arch=("any")
