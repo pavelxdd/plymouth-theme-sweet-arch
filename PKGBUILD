@@ -12,7 +12,6 @@ pkgdesc="Make your Arch Linux splash screen look wonderful with this theme inspi
 arch=("any")
 url="https://github.com/pavelxdd/$_gitname"
 license=("GPL")
-install="message.install"
 depends=("plymouth")
 makedepends=("git")
 source=($_gitroot)
